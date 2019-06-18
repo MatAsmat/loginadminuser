@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin-top: 5rem; /*ให้เว้นระยะห่างกับขอบด้านบน*/
+    text-align: center; /*ให้ส่วนเนื้อหาอยู่ตรงกลาง*/
+}
+input {
+    padding: 1rem 3rem; /*กำหนดกรอบใส่ข้อความ สูง='บน','ล่าง' / กว้าง='ซ้าย','ขวา'*/
+}
+้h1 {
+    margin: 1rem;
+}
+.success { 
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #3c763d;
+    color: #3c763d;
+    background: #dff0d8;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+.error {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+
+
