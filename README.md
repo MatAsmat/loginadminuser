@@ -9,3 +9,4 @@ I'm do more =>
 6.style2.css
 7.script.js
 https://www.youtube.com/watch?v=-muhZPq5gUI
+DATABASE => user --> id, username, password, firstname, lastname, userlevel
